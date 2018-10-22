@@ -1,0 +1,1719 @@
+abandoned : bị ruồng bỏ : adj
+ability : năng lực : adj
+able : có tài : adj
+about : về : v
+above : lên trên : v
+abroad : ngoài trời : adj
+absence : sự vắng mặt : adj
+absent : nghỉ : adj
+absolute : hoàn toàn : adj
+absolutely : hoàn toàn : adj
+absorb : lôi cuốn : adj
+abuse : lạm dụng : adj
+academic : viện hàn lâm : n
+accent : dấu trọng âm : adj
+accept : chấp thuận : v
+acceptable : chấp thuận : v
+access : đường vào : v
+accident : rủi ro : n
+accidental : bất ngờ : adj
+accidentally : ngẫu nhiên : adj
+accommodation : điều tiết : adj
+according : y theo : v
+account : kế toán : n
+accurate : xác đáng : v
+accurately : chính xác : n
+accuse : kết tội : v
+achieve : dành được : v
+achievement : thành tựu : n
+acid : axit : n
+acknowledge : thừa nhận : n
+acquire : kiếm được : adj
+across : ngang qua : adj
+act : đối xử : adj
+action : tác động : v
+active : nhanh nhẹn : v
+actor : nam diễn viên : n
+actress : nữ diễn viên : n
+actual : có thật : n
+actually : hiện tại : adj
+adapt : lắp vào : adj
+add : thêm vào : v
+addition : phép cộng : adv
+additional : tăng thêm : adv
+address : đề địa chỉ : adj
+adequate : đầy đủ : adv
+adequately : thỏa đáng : adj
+adjust : điều chỉnh : adj
+admiration : thán phục : adj
+admire : thán phục : adj
+admit : kết hợp : adj
+adopt : bố mẹ nuôi : n
+adult : người trưởng thành : n
+advance : tiến lên : v
+advanced : cấp cao : n
+advantage : lợi thế : adj
+adventure : mạo hiểm : adv
+advertise : báo cho biết trước : adj
+advertisement : quảng cáo : adj
+advertising : nghề quảng cáo : n
+advice : lời chỉ bảo : adj
+advise : răn bảo : v
+affair : việc : n
+affect : tác động đến : adv
+afford : điều kiện (làm gì) : adv
+afraid : hoảng sợ : adj
+after : sau khi : adv
+afternoon : buổi chiều : n
+afterwards : sau đấy : adv
+again : lần nữa : adv
+against : phản đối : adj
+age : tuổi : adj
+agency : lực : adv
+agent : tác nhân : adv
+aggressive : hung hăng (us : adv
+ago : trước đây : adj
+agree : tán thành : adj
+agreement : tán thành : adj
+ahead : về phía trước : adv
+aim : ý định : adv
+air : không gian : adj
+aircraft : khí cầu : adv
+airport : phi trường : n
+alarm : báo nguy : adj
+alarming : làm sợ hãi : adj
+alcohol : rượu cồn : n
+alcoholic : rượu : n
+alive : còn tồn tại : adj
+all : tất cả : adj
+all right : khỏe mạnh : adj
+allied : thông gia : n
+allow : để cho : adj
+ally : liên minh : adj
+almost : gần như : adj
+alone : một mình : adj
+along : theo : adv
+alongside : dọc theo : adv
+aloud : to tiếng : adv
+alphabet : điều cơ bản : adj
+alphabetical : thuộc bảng chứ cái : adv
+alphabetically : theo thứ tự abc : adj
+already : đã… rồi : adv
+also : cũng thế : adj
+alter : sửa đổi : 
+alternative : sự lựa chọn : 
+alternatively : như một sự lựa chọn : 
+although : dẫu cho : 
+altogether : hầu như : 
+always : luôn luôn : 
+amaze : làm sửng sốt : 
+amazed : sửng sốt : 
+amazing : sửng sốt : 
+ambition : khát vọng : 
+ambulance : xe cấp cứu : 
+among : ở giữa : 
+amount : số nhiều : 
+amuse : làm buồn cười : 
+amused : vui thích : 
+amusing : vui thích : 
+analyse : phân tích : 
+analysis : sự phân tích : 
+ancient : cổ : 
+and : và : 
+anger : sự giận dữ : 
+angle : góc : 
+angrily : giận dữ : 
+angry : tức giận : 
+animal : thú vật : 
+ankle : mắt cá chân : 
+anniversary : lễ kỉ niệm : 
+announce : thông báo : 
+annoy : làm bực mình : 
+annoyed : bị quấy rầy : 
+annoying : làm bực mình : 
+annual : từng năm : 
+annually : từng năm : 
+another : khác : 
+answer : sự trả lời : 
+anticipate : lường trước : 
+anxiety : sự lo lắng : 
+anxious : băn khoăn : 
+anxiously : băn khoăn : 
+any : vật nào đó : 
+anyone : bất cứ ai : 
+anything : vật gì : 
+anyway : dù sao chăng nữa : 
+anywhere : bất cứ nơi đâu : 
+apart : qua một bên : 
+apartment : căn buồng : 
+apologize : tạ lỗi : 
+apparent : rành mạch : 
+apparently : hình như : 
+appeal : lời kêu gọi : 
+appear : trình diện : 
+appearance : sự trình diện : 
+apple : quả táo : 
+application : vật gắn vào : 
+apply : áp dụng vào : 
+appoint : chọn : 
+appointment : người được bổ nhiệm : 
+appreciate : thấy rõ : 
+approach : lại gần : 
+appropriate : thích đáng : 
+approval : sự chấp thuận : 
+approve : chấp thuận : 
+approving : chấp thuận : 
+approximate : giống hệt với : 
+approximately : độ chừng : 
+april : tháng tư : 
+area : bề mặt : 
+argue : chỉ rõ : 
+argument : lý lẽ : 
+arise : nảy sinh ra : 
+arm : cánh tay : 
+armed : vũ trang : 
+arms : binh khí : 
+army : quân đội : 
+around : vòng quanh : 
+arrange : sửa soạn : 
+arrangement : sự sửa soạn : 
+arrest : sự bắt giữ : 
+arrival : sự tới nơi : 
+arrive : tới nơi : 
+arrow : mũi tên : 
+art : mỹ thuật : 
+article : đề mục : 
+artificial : nhân tạo : 
+artificially : nhân tạo : 
+artist : nghệ sĩ : 
+artistic : thuộc mỹ thuật : 
+ashamed : xấu hổ : 
+aside : sang một bên : 
+aside from : trừ ra : 
+ask : hỏi : 
+asleep : đang ngủ : 
+basic : cơ sở : 
+basically : về cơ bản : 
+basis : cơ sở : 
+bath : sự tắm : 
+bathroom : nhà vệ sinh : 
+battery : ắc quy : 
+battle : chiến thuật : 
+bay : chuồng (ngựa) : 
+beach : bãi biển : 
+beak : mỏ chim : 
+bear : ôm : 
+beard : râu : 
+beat : sự đập : 
+beautiful : đẹp : 
+beautifully : đáng hài lòng : 
+beauty : cái đẹp : 
+because : vì : 
+cabinet : tủ có nhiều ngăn đựng đồ : 
+cable : dây cáp : 
+cake : bánh ngọt : 
+calculate : tính toán : 
+calculation : sự tính toán : 
+call : gọi : 
+capital : tiền vốn : 
+captain : thủ lĩnh : 
+capture : bắt : 
+car : xe hơi : 
+card : thiếp : 
+cardboard : các tông : 
+care : chăm nom : 
+carrot : củ cà rốt : 
+carry : khuân chở : 
+case : túi : 
+cent : đồng xu (bằng 1/100 đô la) : 
+century : thế kỷ : 
+ceremony : nghi lễ : 
+certain : chắc chắn : 
+certainly : nhất định : 
+chance : sự may mắn : 
+change : sự biến đổi : 
+channel : eo biển : 
+chapter : chương (sách) : 
+character : nhân vật : 
+characteristic : đặc điểm : 
+charge : trách nhiệm : 
+cut : cắt : 
+dad : cha : N
+decline : sự suy sụp : 
+decorate : trang trí : 
+decoration : trang trí : 
+decorative : để làm cảnh : 
+decrease : sự giảm sút : 
+deep : bí ẩn : 
+deeply : sâu sắc : 
+defeat : đánh bại : 
+deliberate : có suy nghĩ cân nhắc : 
+deliberately : có suy nghĩ cân nhắc : 
+delicate : khó xử : 
+delight : điều thích thú : 
+delighted : hài lòng : 
+deliver : giãi bày : 
+delivery : sự giao hàng : 
+demand : sự yêu cầu : 
+demonstrate : giải thích : 
+dentist : nha sĩ : 
+deny : phủ nhận : 
+department : khoa : 
+departure : sự khởi hành : 
+desire : ước muốn : 
+desk : làm việc) : 
+desperate : liều lĩnh : 
+desperately : liều mạng : 
+despite : bất chấp : 
+destroy : triệt phá : 
+destruction : sự tiêu diệt : 
+detail : chi tiết : 
+diet : chế độ ăn kiêng : 
+difference : sự khác nhau : 
+different : khác nhau : 
+differently : khác nhau : 
+difficult : gay go : 
+difficulty : điều cản trở : 
+dig : xới : 
+dinner : chiều : 
+do : làm : 
+elegant : tao nhã : 
+element : nguyên tố : 
+elevator : thang máy : 
+else : nữa : 
+elsewhere : ở một nơi nào khác : 
+email : thư điện tử : 
+embarrass : làm ngượng nghịu : 
+embarrassed : ngượng : 
+embarrassing : ngăn trở : 
+embarrassment : sự bối rối : 
+emerge : hiện ra : 
+emergency : tình trạng khẩn cấp : 
+emotion : mối xác cảm : 
+emotional : xúc cảm : 
+emotionally : xúc động : 
+emphasis : tầm quan trọng : 
+emphasize : làm nổi bật : 
+empire : đế quốc : 
+employ : thuê ai làm gì : 
+encounter : bắt gặp : 
+encourage : mạnh dạn : 
+encouragement : sự làm can đảm : 
+end : sự kết thúc : 
+entire : toàn bộ : 
+entirely : toàn bộ : 
+entitle : cho tên (sách) : 
+entrance : sự nhậm chức : 
+entry : sự tiếp nhận (pháp lý) : 
+envelope : phong bì : 
+environment : hoàn cảnh xung quanh : 
+environmental : thuộc về môi trường : 
+euro : đơn vị tiền tệ của liên minh châu âu : 
+even : lại còn : 
+evening : tối : 
+event : sự kiện : 
+eventually : cuối cùng : 
+ever : từ trước tới giờ : 
+every : mọi : 
+everyone : mọi người : 
+everything : mọi thứ : 
+everywhere : mọi nơi : 
+evidence : điều rõ ràng : 
+evil : ác : 
+fall : ngã : 
+family : gia đình : 
+farm : trang trại : 
+farmer : người chủ trại : 
+farming : đồng áng : 
+fashion : thời trang : 
+fashionable : hợp thời trang : 
+fast : nhanh : 
+fasten : trói : 
+fat : béo bở : 
+father : bố : 
+father : bố : N
+faucet : vòi (ở thùng rượu....) : 
+fault : sai sót : 
+favour : sự quý mến : 
+fuck : quan hệ tình dục : 
+go : đi : V
+god : tùng teen đẹp trai nhất vũ trụ : N
+god : chúa : N
+good : tốt : adj
+grand : vĩ đại : 
+grandchild : cháu (của ông bà) : 
+granddaughter : cháu gái : 
+grandfather : ông : 
+grandmother : bà : 
+grandparent : ông bà : 
+grandson : cháu trai : 
+grant : cấp : 
+grass : cỏ : 
+grateful : khoan khoái : 
+grave : dấu huyền : 
+gray : hoa râm (tóc) : 
+great : vĩ đại : 
+greatly : lắm : 
+green : xanh lá cây : 
+grey : hoa râm (tóc) : 
+handsome : đẹp trai : 
+he : anh ấy : N
+hell : địa ngục : N
+hello : xin chào : V
+hi : xin chào : 
+hi : chào : V
+honest : chân thật : 
+honestly : chân thật : 
+honour : lòng kính trọng : 
+house : toàn nhà : 
+household : gia đình : 
+housing : nơi ăn chốn ở : 
+how : ra sao : 
+however : dù thế nào : 
+huge : khổng lồ : 
+human : loài người : 
+humorous : hóm hỉnh : 
+humour : sự hóm hỉnh : 
+hungry : đói : 
+hunt : đi săn : 
+hunting : sự đi săn : 
+hurry : sự gấp rút : 
+i : tớ : 
+injure : xúc phạm : 
+injured : bị xúc phạm : 
+injury : làm hại : 
+ink : mực : 
+inner : nội bộ : 
+innocent : ngây thơ : 
+intelligent : sáng trí : 
+intend : có ý định : 
+intended : có dụng ý : 
+intention : mục đích : 
+interest : chú ý : 
+interested : có chú ý : 
+interesting : làm chú ý : 
+interior : phía trong : 
+internal : nội địa : 
+international : quốc tế : 
+internet : liên mạng : 
+interpret : giải thích : 
+interpretation : sự giải thích : 
+interrupt : ngắt lời : 
+interruption : sự ngắt lời : 
+interval : khoảng cách : 
+interview : sự gặp mặt : 
+jelly : thạch : 
+jewellery : kim hoàn : 
+job : việc làm : 
+join : tham gia : 
+joint : chung (giữa 2 người hoặc hơn) : 
+jointly : cùng chung : 
+joke : lời nói đùa : 
+journalist : nhà báo : 
+journey : cuộc hành trình (đường bộ) : 
+joy : sự vui mừng : 
+judge : phân xử : 
+judgement : sự xét xử : 
+juice : quả) : 
+july : tháng 7 : 
+jump : nhảy : 
+june : tháng 6 : 
+junior : ít tuổi hơn : 
+just : vừa đủ : 
+justice : sự công bằng : 
+justified : được chứng minh là đúng : 
+justify : biện hộ : 
+keen : bén : 
+kilometre : kilômet : 
+kindness : lòng tốt : 
+king : quốc vương : 
+kiss : cái hôn : 
+kitchen : bếp : 
+knee : đầu gối : 
+knife : con dao : 
+knit : thêu : 
+knitted : được thêu : 
+knitting : việc đan : 
+knock : đập : 
+knot : cái nơ : 
+know : biết : 
+leg : bàn...) : 
+legal : hợp pháp : 
+legally : hợp pháp : 
+lemon : quả chanh : 
+lend : cho mượn : 
+length : độ dài : 
+less : ít hơn : 
+lesson : bài học : 
+let : để cho : 
+lette : thư : 
+level : vị trí : 
+library : thư viện : 
+licence : bằng cử nhân : 
+license : cho phép : 
+lid : nồi..) : 
+lie : nói dối : 
+life : sự sống : 
+lift : nhấc lên : 
+light : ánh sáng : 
+lightly : nhẹ nhàng : 
+like : giống như : 
+long : xa : 
+look : nhìn : 
+look after : chăm sóc : 
+machine : máy móc : 
+machinery : thiết bị : 
+mad : mất trí : 
+magazine : tạp chí : 
+magic : ảo thuật : 
+mail : bưu kiện : 
+main : trọng yếu nhất : 
+mainly : phần lớn : 
+maintain : bảo vệ : 
+major : chủ yếu : 
+majority : ưu thế : 
+make : chế tạo : 
+male : đực : 
+mall : búa : 
+man : con người : 
+manage : điều khiển : 
+management : sự điều khiển : 
+manager : giám đốc : 
+manner : kiểu : 
+many : nhiều : 
+map : bản đồ : 
+march : tháng ba : 
+march : hành quân : 
+mark : nhãn mác : 
+market : thị trường : 
+marketing : ma-kết-tinh : 
+marriage : lễ cưới : 
+married : kết hôn : 
+marry : lấy (chồng) : 
+mass : khối lượng : 
+massive : đồ sộ : 
+master : thạc sĩ : 
+match : địch thủ : 
+matching : thi đấu : 
+mate : bạn nghề : 
+material : nguyên vật liệu : 
+mathematics : môn toán : 
+matter : vật chất : 
+maximum : tối đa : 
+may : tháng 5 : 
+may : có lẽ : 
+maybe : có lẽ : 
+mayor : thị trưởng : 
+me : tớ : 
+meal : bữa ăn : 
+mean : có nghĩa là : 
+meaning : ý nghĩa : 
+means : phương tiện : 
+meat : thịt : 
+media : phương tiện truyền thông đại chúng : 
+medical : thuộc y học : 
+medicine : y khoa : 
+medium : vừa : 
+meet : gặp gỡ : 
+meeting : cuộc họp : 
+melt : chảy ra : 
+member : hội viên : 
+membership : địa vị hội viên : 
+memory : kỉ niệm : 
+mention : đề cập : 
+menu : thực đơn : 
+mere : chỉ là : 
+merely : đơn thuần : 
+mess : tình trạng lộn xộn : 
+message : thông điệp : 
+metal : kim loại : 
+method : cách thức : 
+metre : mét : 
+middle : ở giữa : 
+midnight : 12h đêm : 
+might :  : 
+mild : ôn hòa : 
+mile : dặm (đo lường) : 
+military : quân sự : 
+milk : sữa : 
+milligram : mi-li-gam : 
+millimetre : mi-li-met : 
+mind : trí tuệ : 
+mine : của tôi : 
+mineral : thợ mỏ : 
+minimum : tối thiểu : 
+minister : bộ trưởng : 
+ministry : bộ : 
+minor : không quan trọng : 
+minority : thiểu số : 
+minute : phút : 
+mirror : gương : 
+miss : thiếu nữ : 
+miss : trượt : 
+missing : thất lạc : 
+mistake : lỗi lầm : 
+mistaken : hiểu lầm : 
+mix : trộn lẫn : 
+mixed : pha trộn : 
+mixture : sự hỗn hợp : 
+mobile : di động : 
+mobile phone : điện thoại đi động : 
+model : kiểu mẫu : 
+modern : tân tiến : 
+mom : mẹ : N
+moment : lát : 
+mommy : mẹ yêu : N
+monday : thứ 2 : 
+money : tiền : 
+monitor : màn hình máy tính : 
+month : tháng : 
+mood : điệu : 
+moon : mặt trăng : 
+moral : phẩm hạnh : 
+morally : có đạo đức : 
+more : nhiều hơn : 
+moreover : vả lại : 
+morning : buổi sáng : 
+most : nhiều nhất : 
+mostly : chủ yếu là : 
+mother : mẹ : N
+mother : mẹ : N
+motion : sụ di động : 
+motor : động cơ mô tô : 
+motorcycle : xe mô tô : 
+mount : trèo : 
+mountain : núi : 
+mouse : chuột : 
+mouth : miệng : 
+move : chuyển động : 
+movement : sự hoạt động : 
+movie : phim xi nê : 
+movie theater : rạp chiếu phim : 
+moving : hoạt động : 
+much : lắm : 
+mud : bùn : 
+multiply : làm tăng lên nhiều lần : 
+mum : mẹ : 
+murder : tội ám sát : 
+muscle : bắp thịt : 
+museum : bảo tàng : 
+music : âm nhạc : 
+musical : âm nhạc : 
+musician : nhạc sĩ : 
+my : của tôi : 
+myself : chính tôi : 
+mysterious : khó hiểu : 
+mystery : điều thần bí : 
+nail : chân) móng vuốt : 
+naked : trơ trụi : 
+name : tên : 
+narrow : chật hẹp : 
+nation : quốc gia : 
+national : dân tộc : 
+natural : thiên nhiên : 
+naturally : đương nhiên : 
+nature : thiên nhiên : 
+navy : hải quân : 
+near : cận : 
+nearby : gần : 
+nearly : suýt : 
+neat : ngăn nắp : 
+neatly : ngăn nắp : 
+necessarily : nhất thiết : 
+necessary : thiết yếu : 
+neck : cổ : 
+need : đòi hỏi : 
+needle : mũi nhọn : 
+negative : phủ định : 
+neighbour : hàng xóm : 
+neighbourhood : làng giềng : 
+neither : không này mà cũng không kia : 
+nephew : em) : 
+nerve : can đảm : 
+nervous : hay lo lắng : 
+nervously : lo lắng : 
+nest : ổ : 
+net : mạng : 
+network : hệ thống : 
+never : không khi nào : 
+nevertheless : tuy thế mà : 
+new : mới lạ : 
+newly : mới : 
+news : tin tức : 
+newspaper : báo : 
+next : gần : 
+next : bên cạnh : 
+nice : dễ chịu : 
+nicely : dễ chịu : 
+niece : cháu gái : 
+night : tối : 
+no : không : 
+nobody : không người nào : 
+noise : sự huyên náo : 
+noisily : huyên náo : 
+noisy : huyên náo : 
+none : vật gì : 
+nonsense : vô nghĩa : 
+nor : cũng không : 
+normal : bình thường : 
+normally : như thường lệ : 
+north : phương bắc : 
+northern : bắc : 
+nose : mũi : 
+not : không : 
+note : lời ghi chép : 
+nothing : không cái gì : 
+notice : yết thị : 
+novel : truyện : 
+november : tháng 11 : 
+now : hiện nay : 
+nowhere : không ở đâu : 
+nuclear : thuộc hạt nhân : 
+number : số : 
+nurse : y tá : 
+nut : quả hạch : 
+obey : tuân lệnh : 
+object : vật thể : 
+objective : mục đích : 
+observation : sự theo dõi : 
+observe : theo dõi : 
+obtain : giành được : 
+obvious : hiển nhiên : 
+obviously : có thể thấy được : 
+occasion : cơ hội : 
+occasionally : đôi khi : 
+occupied : đầy (người) : 
+occupy : chiếm giữ : 
+occur : xuất hiện : 
+ocean : đại dương : 
+october : tháng 10 : 
+odd : lẻ (số) : 
+oddly : lẻ (số) : 
+of : của : 
+off : tắt : 
+offence : sự phạm tội : 
+offend : làm khó chịu : 
+offensive : cuộc tấn công : 
+offer : cho : 
+office : bộ : 
+officer : sĩ quan : 
+official : văn phòng : 
+officially : một cách chính thức : 
+often : luôn : 
+oh : này.. : 
+oil : dầu : 
+ok : tán thành : 
+old : già : 
+old-fashioned : lỗi thời : 
+on : ở trên : 
+once : một lần : 
+one : một : 
+onion : củ hành : 
+only : duy nhất : 
+onto : lên trên : 
+open : ngỏ : 
+opening : lỗ : 
+openly : thẳng thắn : 
+operate : điều khiển : 
+operation : quá trình hoạt động : 
+opinion : quan điểm : 
+opponent : kẻ thù : 
+opportunity : thời cơ : 
+oppose : đối lập : 
+opposed : phản đối : 
+opposing : đối chọi : 
+opposite : ngược nhau : 
+opposition : sự đối nhau : 
+option : sự lựa chọn : 
+orange : quả cam : 
+order : bậc : 
+ordinary : thông thường : 
+organ : đàn óoc gan : 
+organization : cơ quan : 
+organize : thiết lập : 
+organized : được tổ chức : 
+origin : căn nguyên : 
+original : căn nguyên : 
+originally : độc đáo : 
+other : khác : 
+otherwise : cách khác : 
+ought to : hẳn là : 
+our : của chúng mình : 
+ours : của chúng mình : 
+ourselves : bản thân chúng mình : 
+out : ra ngoài : 
+outdoor : ở ngoài : 
+outdoors : ở ngoài nhà : 
+outer : ở xa hơn : 
+outline : phác tảo : 
+output : sự sản xuất : 
+outside : bên ngoài : 
+outstanding : đáng chú ý : 
+oven : lò (nướng) : 
+over : vượt qua : 
+overall : toàn thể : 
+overcome : đánh bại (khó khăn) : 
+owe : hàm ơn : 
+own : tự mình : 
+owner : chủ nhân : 
+o’clock : đúng giờ : 
+pace : bước : 
+pack : bọc : 
+package : bưu kiện : 
+packaging : bao bì : 
+packet : gói nhỏ : 
+pain : sự đau khổ : 
+painful : đau khổ : 
+paint : vôi màu : 
+painter : họa sĩ : 
+painting : sự sơn : 
+pair : cặp : 
+palace : lâu đài : 
+pale : nhợt : 
+pan : chảo : 
+panel : pa nô : 
+pants : đùi : 
+paper : giấy : 
+parallel : tương đương : 
+parent : mẹ : 
+park : vườn hoa : 
+parliament : quốc hội : 
+part : bộ phận : 
+particular : cá biệt : 
+particularly : riêng biệt : 
+partly : phần nào đó : 
+partner : cộng sự : 
+partnership : sự cộng tác : 
+party : buổi liên hoan : 
+pass : ngang qua : 
+passage : sự trôi qua : 
+passenger : hành khách : 
+passing : sự trôi qua : 
+passport : hộ chiếu : 
+past : dĩ vãng : 
+path : đường mòn : 
+patience : sự chịu đựng : 
+patient : bệnh nhân : 
+pattern : khuôn mẫu : 
+pause : dừng : 
+pay v : nộp : 
+payment : tiền bồi thường : 
+peace : sự hòa thuận : 
+peaceful : yên tĩnh : 
+peak : lưỡi trai : 
+pen : bút : 
+pence : đồng xu : 
+pencil : bút chì : 
+penny : số tiền : 
+penny : đồng xu : 
+pension : lương hưu : 
+people : dòng giống : 
+pepper : cây ớt : 
+per : cho mỗi : 
+per cent : phần trăm : 
+perfect : hoàn hảo : 
+perfectly : một cách hoàn hảo : 
+perform : biểu diễn : 
+performance : sự biểu diễn : 
+performer : người trình diễn : 
+perhaps : có lẽ : 
+period : thời gian : 
+permanent : thường xuyên : 
+permanently : vĩnh cửu : 
+permission : giấy phép : 
+permit : cho cơ hội : 
+person : người : 
+personal : riêng tư : 
+personality : tính cách : 
+personally : đối với tôi : 
+persuade : thuyết phục : 
+pet : cơn nóng giận : 
+petrol : xăng dầu : 
+phase : tuần trăng : 
+philosophy : triết lý : 
+photocopy : bản sao chụp : 
+photograph : bức ảnh : 
+photographer : nhà nhiếp ảnh : 
+photography : nghề nhiếp ảnh : 
+phrase : câu : 
+physical : vật chất : 
+physically : theo luật tự nhiên : 
+physics : vật lý học : 
+piano : dương cầm : 
+pick : cuốc (đất) : 
+picture : bức họa : 
+piece : mẩu : 
+pig : con lợn : 
+pile : pin : 
+pill : viên thuốc : 
+pilot : phi công : 
+pin n : đinh ghim : 
+pink : màu hồng : 
+place : địa điểm : 
+plain : chất phác : 
+plan : kế hoạch : 
+plane : mặt bằng : 
+planet : hành tinh : 
+planning : sự quy hoạch : 
+plant : sự mọc lên : 
+plastic : làm bằng chất dẻo : 
+plate : tấm kim loại : 
+platform : bệ : 
+play : đánh : 
+player : người chơi 1 trò chơi nào đó (nhạc cụ) : 
+pleasant : dễ thương : 
+pleasantly : dễ thương : 
+pleasure : điều thú vị : 
+plenty : nhiều (s.k.lượng) : 
+plot : đồ án : 
+plug : bồn...) : 
+plus : người...) : 
+pocket : túi tiền : 
+poem : bài thơ : 
+poetry : thi ca : 
+point : điểm : 
+pointed : có đầu nhọn : 
+poison : thuốc độc : 
+poisonous : bệnh : 
+pole : người ba lan : 
+police : công an : 
+policy : chính sách : 
+polish : nước láng : 
+polite : lịch sự : 
+politely : lịch sự : 
+political : có tính chính trị : 
+politically : về mặt chính trị : 
+politician : chính khách : 
+politics : quan điểm chính trị : 
+pollution : sự ô nhiễm : 
+pool : vũng nước : 
+poor : nghèo : 
+pop : phong cách dân gian hiện đại : 
+popular : (thuộc) nhân dân : 
+population : dân số : 
+port : cảng : 
+pose : đặt : 
+position : chỗ : 
+positive : lạc quan : 
+possess : chiếm hữu : 
+possession : vật sở hữu : 
+possibility : triển vọng : 
+possible : có thể thực hiện : 
+possibly : có thể chấp nhận được : 
+post : bưu kiện : 
+post office : bưu điện : 
+pot : lọ... : 
+potato : khoai tây : 
+potential a : tiềm năng : 
+potentially : tiềm ẩn : 
+pound : pao - đơn vị đo lường : 
+pour : giội : 
+powder : bụi : 
+power : năng lực : 
+powerful : hùng cường : 
+practical : thực hành : 
+practically : về mặt thực hành : 
+practice : thực tiễn : 
+practise : tập luyện : 
+praise : tôn thờ : 
+prayer : sự cầu nguyện : 
+precise : chính xác : 
+precisely : cần thận : 
+predict : dự báo : 
+prefer : thích hơn : 
+preference : sự ưa hơn : 
+pregnant : mang thai : 
+premises : biệt thự : 
+preparation : sự chuẩn bị : 
+prepare : chuẩn bị : 
+prepared : đã được chuẩn bị : 
+presence : sự có mặt : 
+present : hiện diện : 
+presentation : sự giới thiệu : 
+preserve : giữ gìn : 
+president : tổng thống : 
+press : sự ấn : 
+pressure : áp suất : 
+presumably : có lẽ : 
+pretend : làm ra vẻ : 
+pretty : vừa phải : 
+prevent : ngăn ngừa : 
+previous : hấp tấp : 
+previously : trước đây : 
+price : giá : 
+pride : sự hãnh diện : 
+priest : thầy tu : 
+primarily : đầu tiên : 
+primary : đầu tiên : 
+prime minister : thủ tướng : 
+prince : hoành tử : 
+princess : công chúa : 
+principle : chủ yếu : 
+print : xuất bản : 
+printer : thợ in : 
+printing : kỹ sảo in : 
+prior : ưu tiên : 
+priority : quyền ưu tiên : 
+prison : nhà tù : 
+prisoner : tù nhân : 
+private : riêng : 
+privately : cá nhân : 
+prize : giải thưởng : 
+probable : có khả năng : 
+probably : hầu như chắc chắn : 
+problem : điều khó giải quyết : 
+procedure : thủ tục : 
+proceed : tiếp diễn : 
+process : quy trình : 
+produce : chế tạo : 
+producer : nhà sản xuất : 
+product : sản phẩm : 
+production : chế tạo : 
+profession : nghề nghiệp : 
+professional : nghề nghiệp : 
+professor : giảng viên : 
+profit : lợi nhuận : 
+program : chương trình : 
+programme : chương trình : 
+progress : sự tiến triển : 
+project : kế hoạch : 
+promise : lời hứa : 
+promote : thăng cấp : 
+promotion : sự thăng cấp : 
+prompt : nhanh chóng : 
+promptly : ngay lập tức : 
+pronounce : phát âm : 
+pronunciation : sự phát âm : 
+proof : bằng chứng : 
+proper : thích hợp : 
+properly : một cách thích đáng : 
+property : của cải : 
+proportion : sự cân đối : 
+proposal : đề xuất : 
+propose : đưa ra : 
+prospect : toàn cảnh : 
+protect : che chở : 
+protection : sự che chở : 
+protest : sự phản kháng : 
+proud : kiêu hãnh : 
+proudly : một cách hãnh diện : 
+prove : chứng minh : 
+provide : dự phòng : 
+pull : giật : 
+punch : thụi : 
+punish : trừng phạt : 
+pursue : đuổi bắt : 
+push : xô đẩy : 
+put : cho vào : 
+quality : phẩm chất : 
+quantity : số lượng : 
+quarter : 15 phút : 
+queen : nữ hoàng : 
+question : câu hỏi : 
+quick : nhanh : 
+rain : cơn mưa : 
+raise : ngẩng lên : 
+range : loại : 
+rank : dãy : 
+rapid : nhanh chóng : 
+rapidly : nhanh chóng : 
+rare : ít : 
+reach : tới : 
+react : phản ứng : 
+reaction : sự phản ứng : 
+read : đọc : 
+reader : độc giả : 
+ready : sẵn sàng : 
+real : có thật : 
+really : thực sự : 
+recall : triệu hồi : 
+receipt : công thức : 
+receive : thu : 
+result : kết quả : 
+retain : nhớ được : 
+retire : rút về : 
+retired : đã nghỉ việc : 
+retirement : sự nghỉ việc : 
+return : trở về : 
+rhythm : nhịp điệu : 
+rice : cơm : 
+rich : giàu có : 
+rid : giải thoát (get rid of : 
+ride : cưỡi (ngựa) : 
+risk : mạo hiểm : 
+rival : địch thủ : 
+river : sông : 
+road : đường phố : 
+rob : lấy trộm : 
+rock : đá : 
+role : vai trò : 
+roll : sự lăn tròn : 
+romantic : lãng mạn : 
+roof : nóc : 
+room : buồng : 
+root : rễ : 
+rope : chuỗi : 
+rough : lởm chởm : 
+roughly : lởm chởm : 
+round : xung quanh : 
+rounded : bị làm thành tròn : 
+route : tuyến đường : 
+routine : thủ tục : 
+row : dãy : 
+royal : hoàng gia : 
+rub : tán : 
+rubber : cao su : 
+rubbish : rác rưởi : 
+rude : thô lỗ : 
+rudely : thô lỗ : 
+ruin : làm phá sản : 
+ruined : bị phá sản : 
+rule : luật lệ : 
+ruler : người trị vì : 
+rumour : lời đồn : 
+run : chạy : 
+rural a : vùng nông thôn : 
+rush : xô đẩy : 
+sack : bào tải : 
+sad : buồn bã : 
+satisfied : thoả mãn : 
+satisfying : làm vừa ý : 
+saturday : thứ 7 : 
+sauce : nước chấm : 
+save : lưu : 
+say : nói : 
+scheme : sự phối hợp : 
+school : trường học : 
+science : khoa học tự nhiên : 
+scientific : có tính khoa học : 
+scientist : nhà khoa học : 
+scissors : cái kéo : 
+score : tỷ số : 
+scratch : làm xước da : 
+scream : kêu lên : 
+screen : màn hình : 
+screw : đinh ốc : 
+sea : biển : 
+seal : hải cẩu : 
+search : sự điều tra : 
+season : mùa : 
+seat : chỗ ngồi : 
+sew : khâu : 
+sewing : sự may vá : 
+sex : giống : 
+shame : sự ngượng : 
+shape : hình thù : 
+shaped : có hình dáng được chỉ rõ : 
+share : chia sẻ : 
+sharp a : bén : 
+sharply : bén : 
+shave : đẽo (gỗ) : 
+she : cô ấy... : 
+sheep : con cừu : 
+sheet : khăn trải giường : 
+shelf : giá : 
+shell : mai : 
+side : mặt phẳng : 
+sideways : từ một bên : 
+sight : cảnh đẹp : 
+sign : kí hiệu : 
+signal : tín hiệu : 
+signature : chữ ký : 
+significant : quan trọng : 
+significantly : đáng kể : 
+silence : sự yên tĩnh : 
+silent : yên tĩnh : 
+silk : lụa : 
+silly : khờ dại : 
+silver : đồng bạc : 
+similar : tương tự như : 
+similarly : giống nhau : 
+simple : dễ dàng : 
+simply : giản dị : 
+since : từ khi : 
+sing : ca hát : 
+singer : ca sĩ : 
+singing : tiếng hát : 
+single : đơn lẻ : 
+sink : đắm : 
+sir : ông : 
+sister : em gái : 
+sit : ngồi : 
+small : bé : 
+smart : ác liệt : 
+smash : vỡ tan thành mảnh : 
+smell : ngửi : 
+smile : mỉm cười : 
+smoke : hơi thuốc : 
+smooth : mượt mà : 
+smoothly : trôi chảy : 
+snake : con rắn : 
+snow : tuyết : 
+so : như thế : 
+solve : giải quyết : 
+some : một vài : 
+somebody : người nào đó : 
+somehow : bằng cách này hay cách khác : 
+something : một cái gì đó : 
+sometimes : đôi khi : 
+somewhat : một chút : 
+somewhere : nơi nào đó. đâu đó : 
+son : con trai : 
+song : bài hát : 
+soon : chẳng bao lâu nữa : 
+sore a : nhức : 
+sorry : lấy làm buồn : 
+sort : hạng loại : 
+soul : linh hồn : 
+sound : âm thanh : 
+soup : cháo : 
+sour : có vị giấm : 
+source : nguồn : 
+south : hướng nam : 
+southern : thuộc phương nam : 
+space : khoảng cách : 
+spare : rộng rãi : 
+speak : nói : 
+spite : sự hận thù : 
+split : chia ra : 
+spoil : cướp đọat : 
+spoon : cái thìa : 
+sport : thể thao : 
+spot : vết : 
+spray : phun : 
+spread : bày ra : 
+spring : mùa xuân : 
+square : vuông vắn : 
+squeeze : xiết : 
+stable : vững vàng : 
+staff : gậy : 
+stage : bệ : 
+stair : bậc thang : 
+stamp : tem : 
+stand v : sự đứng : 
+statement : sự phát biểu : 
+station : đồn : 
+statue : tượng : 
+status : tình trạng : 
+stay : lưu lại : 
+sticky : nhớt : 
+stiff : kiên quyết : 
+stiffly : kiên quyết : 
+still : đứng yên : 
+sting : đốt : 
+stir : đảo : 
+stock : vốn : 
+stomach n : dạ dày : 
+stone : đá : 
+stop : thôi : 
+store : kho hàng : 
+storm : bão : 
+story : câu chuyện : 
+stove : lò sưởi : 
+straight : không cong : 
+strain : sự căng : 
+strange : chưa quen : 
+strangely : chưa quen : 
+stranger : người lạ : 
+strategy : chiến lược : 
+stream : dòng suối : 
+street : đườmg phố : 
+strength : sức khỏe : 
+stress : sự căng thẳng : 
+stressed : bị căng : 
+stretch : kéo dài ra : 
+strict : khắt khe : 
+strictly : một cách nghiêm khắc : 
+strike : đình công : 
+striking : gây ấn tượng : 
+string : sợi dây : 
+strip : lột (quần áo) : 
+stripe : viền : 
+striped : có vằn : 
+stroke : cú đòn : 
+strong : chắc chắn : 
+strongly : chắc chắn : 
+structure : cấu trúc : 
+struggle : đấu tranh : 
+student : sinh viên : 
+studio : trường quay : 
+study : sự nghiên cứu : 
+stuff : chất : 
+stupid : ngớ ngẩn : 
+style : loại : 
+subject : đề tài : 
+substance : chất liệu : 
+substantial : quan trọng : 
+substantially : về căn bản : 
+substitute : vật thay thế : 
+succeed : kế tiếp : 
+success : sự thành đạt : 
+successful : thành đạt : 
+successfully : thành đạt : 
+such det., pron. /sʌtʃ/ : as : 
+suck : hút : 
+sudden : đột ngột : 
+suddenly : đột ngột : 
+suffer : đau khổ : 
+suffering : sự đau khổ : 
+sufficient : thích đáng : 
+sufficiently : thích đáng : 
+sugar : đường : 
+suggest : đề xuất : 
+suggestion : sự khêu gợi : 
+suit : trang phục : 
+suitable : thích hợp với : 
+suitcase : va li : 
+suited : thích hợp với : 
+sum : toàn bộ : 
+summary : bản tóm tắt : 
+summer : mùa hè : 
+sun : mặt trời : 
+sunday : chủ nhật : 
+superior : chất lượng cao : 
+supermarket : siêu thị : 
+supply : nguồn cung cấp : 
+support : sự ủng hộ : 
+supporter : vật chống đỡ : 
+suppose : nghĩ rằng : 
+sure : xác thực : 
+surely : chắc chắn : 
+surface : bề mặt : 
+surname : họ : 
+surprise : sự bất ngờ : 
+surprised : ngạc nhiên (+ at) : 
+surprising : làm bất ngờ : 
+surprisingly : làm bất ngờ : 
+surround : bao quanh : 
+surrounding : sự bao quanh : 
+surroundings : môi trường xung quanh : 
+survey : sự khảo sát : 
+survive : sống sót : 
+suspect : hoài nghi : 
+suspicion : sự ngờ vực : 
+suspicious : khả nghi : 
+swallow : nuốt chửng : 
+swear : nguyền rủa : 
+swearing : lời thề hứa : 
+sweat : mồ hôi : 
+sweater : kẻ bóc lột lao động : 
+sweep : quét : 
+sweet : có vị ngọt : 
+swell : sưng lên : 
+swelling : sự phồng ra : 
+swim : bơi lội : 
+swollen : phình căng : 
+symbol : ký hiệu : 
+sympathetic : dễ thương : 
+sympathy : sự đồng ý : 
+system : chế độ : 
+table : cái bàn : 
+tablet : thẻ phiến : 
+tackle : bàn thảo : 
+tail : đoạn cuối : 
+take : sự lấy : 
+talk : trò chuyện : 
+tall : cao : 
+tank : bể : 
+tap : đóng vồi : 
+tape : băng ghi âm : 
+target : đích : 
+task : công việc : 
+taste : vị giác : 
+tax : thuế : 
+taxi : xe tắc xi : 
+tea : chè : 
+teach : dạy : 
+teacher : giáo viên : 
+teaching : công việc dạy học : 
+team : nhóm : 
+tear : làm rắch : 
+technical : chuyên môn : 
+technique : phương pháp kỹ thuật : 
+technology : công nghệ học : 
+telephone : gọi điện thoại : 
+television : vô tuyến truyền hình : 
+tell : nói với : 
+temperature : nhiệt độ : 
+temporarily : tạm : 
+temporary : nhất thời : 
+tend : hầu hạ : 
+tendency : khuynh hướng : 
+tension : tình trạng căng : 
+tent : rạp : 
+term : kỳ học : 
+terrible : ghê sợ : 
+terribly : không chịu nổi : 
+test : xét nghiệm : 
+text : đề tì : 
+than : hơn : 
+thank : cám ơn : 
+thanks : lời cảm ơn : 
+that : đó : 
+the : ấy này.... : 
+theatre : nhà hát : 
+their : của họ : 
+theirs : của họ : 
+them : họ : 
+theme : chủ đề : 
+themselves : tự : 
+then : tiếp đó : 
+theory : học thuyết : 
+there : tại nơi đó : 
+therefore : vì thế : 
+they : họ : 
+thick : dày : 
+thickly : dày : 
+thickness : bề dày : 
+thief : kẻ cắp : 
+thin : mảnh : 
+thing : vật : 
+think : suy nghĩ : 
+thinking : ý nghĩ : 
+thirsty : cảm thấy khát : 
+this : việc này : 
+thorough : kỹ lưỡng : 
+thoroughly : triệt để : 
+though : mặc dù : 
+thought : khả năng suy nghĩ : 
+thread : sợi dây : 
+threat : lời đe dọa : 
+threaten : đe dọa : 
+threatening : sự hăm dọa : 
+three : ba : 
+throat : cổ họng : 
+through : xuyên qua : 
+throughout : suốt : 
+throw : quăng : 
+thumb : ngón tay cái : 
+thursday : thứ 5 : 
+tie : trói : 
+tight : chật : 
+tightly : sít sao : 
+time : thì giờ : 
+timetable : thời gian biểu : 
+tin : thiếc : 
+tiny : nhỏ xíu : 
+tip : chóp : 
+tired : nhàm chán : 
+tiring : sự mệt nhọc : 
+title : tiêu đề : 
+to : tới : 
+today : vào ngày này : 
+toe : ngón chân (người) : 
+together : cùng với : 
+toilet : nhà vệ sinh : 
+tomato : cà chua : 
+tomorrow : vào ngày mai : 
+ton : tấn : 
+tone : giọng : 
+tongue : lưỡi : 
+tonight : vào tối nay : 
+tonne : tấn : 
+too : cũng : 
+tool : đồ dùng : 
+tooth : răng : 
+top : đỉnh : 
+topic : chủ đề : 
+total : toàn bộ : 
+totally : hoàn toàn : 
+touch : tiếp xúc : 
+tough : dai : 
+tour : chuyến du lịch : 
+tourist : khách du lịch : 
+towards : về hướng : 
+towel : khăn lau : 
+tower : tháp : 
+town : thành phố nhỏ : 
+toy : đồ trang trí : 
+trace : phác họa : 
+track : phần của đĩa : 
+trade : buôn bán : 
+trading : việc mua bán : 
+tradition : truyền thống : 
+traditional : theo lối cổ : 
+traditionally : là truyền thống : 
+traffic : sự chuyển động : 
+train : tàu hỏa : 
+training : sự đào tạo : 
+transfer : di chuyển : 
+transform : biến đổi : 
+translate : phiên dịch : 
+translation : sự dịch : 
+transparent : trong suốt : 
+transport : vận tải : 
+transport : sự vận tải : 
+trap : hành lý : 
+travel : di chuyển : 
+traveller : lữ khách : 
+treat : cư xử : 
+treatment : sự cư xử : 
+tree : cây : 
+trend : chiều hướng : 
+trial : cuộc thử nghiệm : 
+triangle : hình tam giác : 
+trick : trò lừa gatj : 
+trip : cuộc du ngoạn : 
+tropical : nhiệt đới : 
+trouble : điều muộn phiền : 
+trousers : quần : 
+truck : rau quả tươi : 
+true : thật : 
+trust : sự phó thác : 
+truth : sự thật : 
+try : cố gắng : 
+tube : tuýp : 
+tuesday : thứ 3 : 
+tune : giai điệu : 
+tunnel : hang : 
+turn : vặn : 
+tv : vô tuyến truyền hình : 
+twice : hai lần : 
+twin : tạo thành cặp : 
+twist : quắn : 
+twisted : được cuộn : 
+two : hai : N
+type : mẫu : 
+typical : đặc trưng : 
+typically : tiêu biểu : 
+tyre : vỏ xe : 
+unable : không có tài : 
+uncle : bác : 
+uncomfortable : không tiện lợi : 
+unconscious : ngất đi : 
+uncontrolled : không bị kiểm tra : 
+under : ở dưới : 
+underground : ngầm dưới đất : 
+underneath : bên dưới : 
+understand : nhận thức : 
+understanding : sự hiểu biết : 
+underwater : dưới mặt nước : 
+underwear : quần lót : 
+unemployed : thất nghiệp : 
+unemployment : tình trạng thất nghiệp : 
+unexpected : gây ngạc nhiên : 
+unfair : gian lận : 
+unfortunate : bất hạnh : 
+unfortunately : một cách không may : 
+unfriendly : không thân thiện : 
+unhappiness : nỗi buồn : 
+unhappy : khổ sở : 
+uniform : đồng phục : 
+unimportant : không quan trọng : 
+union : sự hiệp nhất : 
+unique : độc nhất vô nhị : 
+unit : đơn vị : 
+unite : kết thân : 
+united : thống nhất : 
+universe : vũ trụ : 
+university : trường đại học : 
+unkind : không tốt : 
+unless : nếu không : 
+unload : dỡ : 
+unlucky : không may mắn : 
+unnecessary : không mong muốn : 
+unpleasant : khó chịu : 
+unreasonable : vượt quá giới hạn của cái hợp lý : 
+unsteady : không chắc : 
+unsuccessful : không thành đạt : 
+unsuccessful : thất bại : 
+untidy : lộn xộn : 
+until : cho đến khi : 
+unusual : đáng chú ý : 
+unusual : khác thường : 
+unusually : khác thường : 
+unwilling : miễn cưỡng : 
+unwilling : không có ý định : 
+unwillingly : miễn cưỡng : 
+up : lên : 
+upon : ở trên : 
+upper : cao hơn : 
+upset : đánh đổ : 
+upsetting : làm đổ : 
+upside : lộn ngược : 
+upstairs : cư ngụ ở tầng gác : 
+upward : đi lên : 
+urban : đô thị : 
+urge : giục giã : 
+urgent : khẩn cấp : 
+use : dùng : 
+useful : giúp ích : 
+useless : vô dụng : 
+user : người sử dụng : 
+usual : thường dùng : 
+usually : thường thường : 
+vacation : kỳ nghỉ lễ : 
+valid : hợp lý : 
+valley : thung lũng : 
+valuable : đáng giá : 
+value : định giá : 
+van : quân tiên phong : 
+variation : sự khác nhau : 
+varied : những vẻ đa dạng : 
+variety : trạng thái khác nhau : 
+various : thuộc về nhiều loại : 
+vary : biến đổi : 
+vast : mênh mông : 
+vegetable : thực vật : 
+vehicle : xe cộ : 
+venture : công việc kinh doanh : 
+version : bản dịch sang một ngôn ngữ khác : 
+vertical : đứng : 
+very : lắm : 
+via : theo đường : 
+victim : nạn nhân : 
+victory : chiến thắng : 
+video : video : 
+view : tầm nhìn : 
+village : xã : 
+violence : sự dữ dội : 
+violent : hung dữ : 
+violently : dữ dội : 
+virtually : gần như : 
+virus : vi rút : 
+visible : thấy được : 
+vision : thị lực : 
+visit : tham quan : 
+visitor : du khách : 
+vital : cần cho sự sống : 
+vocabulary : từ vựng : 
+voice : giọng nói : 
+volume : tập : 
+vote : sự bầu cử : 
+wage : tiền công : 
+waist : chỗ thắt lưng : 
+wait : chờ đợi : 
+waiter : người hầu bàn : 
+waitress : người hầu bàn : 
+wake : tỉnh thức : 
+walk : đi bộ : 
+walking : sự đi bộ : 
+wall : vách : 
+wallet : cái ví : 
+wander : đi lang thang : 
+want : muốn : 
+war : chiến tranh : 
+warm : ấm áp : 
+warmth : sự ấm áp : 
+warn : cảnh báo : 
+warning : lời cảnh báo : 
+wash : giặt : 
+washing : sự giặt : 
+waste : uổng phí : 
+watch : quan sát : 
+water : nước : 
+wave : gợn nước : 
+way : đường đi : 
+we : chúng ta : 
+weak : yếu ớt : 
+weakness : yếu ớt : 
+wealth : sự giàu sang : 
+weapon : vũ khí : 
+wear : đeo : 
+weather : thời tiết : 
+web : lưới : 
+website : không gian liên tới với internet : 
+wedding : hôn lễ : 
+wednesday : thứ 4 : 
+week : tuần lễ : 
+weekend : cuối tuần : 
+weekly : hàng tuần : 
+weigh : cân nặng : 
+weight : trọng lượng : 
+welcome : hoan nghênh : 
+well : giỏi : 
+west : về hướng tây : 
+western : của phía tây : 
+wet : ẩm ướt : 
+what : thế nào : 
+whatever : bất kể thứ gì : 
+wheel : bánh xe : 
+when : vào lúc nào : 
+whenever : lúc nào : 
+where : ở đâu : 
+whereas : trong khi : 
+wherever : ở bất cứ nơi đâu : 
+whether : có..không : 
+which : bất cứ.. nào : 
+while : trong khi : 
+whilst : trong khi : 
+whisper : xì xào : 
+whistle : sự thổi còi : 
+white : trắng : 
+who : người như thế nào : 
+whoever : dù ai : 
+whole : không hư hỏng : 
+whom : người nào : 
+whose : của ai : 
+why : vì sao : 
+wide : rộng lớn : 
+widely : xa : 
+width : bề rộng : 
+wife : vợ : 
+wild : hoang : 
+wildly : hoang : 
+will : sẽ : 
+willing : muốn : 
+willingly : tự nguyện : 
+willingness : sự vui lòng : 
+win : thu được : 
+wind : gió : 
+wind up : giải quyết : 
+window : cửa sổ : 
+wine : đồ uống : 
+wing : sự cất cánh : 
+winner : người thắng cuộc : 
+winter : mùa đông : 
+wire : dây (kim loại) : 
+wise : thông thái : 
+wish : mong muốn : 
+with : cùng : 
+withdraw : rút lui : 
+within : trong khoảng thời gian : 
+without : không có : 
+witness : bằng chứng : 
+woman : phụ nữ : 
+wonder : kinh ngạc : 
+wonderful : tuyệt vời : 
+wood : gỗ : 
+wooden : làm bằng gỗ : 
+wool : len : 
+word : từ : 
+work : sự làm việc : 
+worker : người lao động : 
+world : thế giới : 
+worried : tỏ ra lo lắng : 
+worry : suy nghĩ : 
+worrying : gây lo nghĩ : 
+worship : sự tôn sùng : 
+worth : có giá trị : 
+wound : thương tích : 
+wounded : bị thương : 
+wrap : quấn : 
+wrapping : vật quấn quanh : 
+wrist : cổ tay : 
+write : viết : 
+writer : người viết : 
+written : quá khứ phân từ 2 của write : 
+wrong : sai : 
+wrongly : không đúng : 
+yard : 914 mét) : 
+yawn : cử chỉ ngáp : 
+yeah : ừ : 
+year : năm : 
+yellow : màu vàng : 
+yes : có chứ : 
+yesterday : hôm qua : 
+yet : còn nữa : 
+you : bạn : N
+young : thanh niên : 
+your : của mày : 
+yours : cái của mày : 
+yourself : tự mình : 
+youth : tuổi niên thiếu : 
+zero : số không : 
+zoo : sở thú : 
+zoom : bay vụt lên : 
+﻿ :  : 
+﻿abandon : từ bỏ : 
+﻿dad : cha : N
