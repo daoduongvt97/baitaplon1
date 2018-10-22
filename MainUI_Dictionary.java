@@ -5,10 +5,10 @@ import java.util.ArrayList;
 
 public class MainUI_Dictionary extends javax.swing.JFrame {
 
-    //tạo hai sách từ điển anh việt và việt anh kiểu static để lưu đến cuối chương trình
+    //tạo hai file từ điển tương ứng anh việt và anh anh
     public static DictionaryManagement EVDic = new DictionaryManagement("ev");
     public static DictionaryManagement VEDic = new DictionaryManagement("ve");
-    public static DictionaryManagement Dic; //biến Dic để trỏ vào kiểu từ điển tương ứng
+    public static DictionaryManagement Dic;
     public static Word s;
     private static final String VOICENAME="kevin16"; //tên của giọng nói
     public MainUI_Dictionary() {
@@ -192,9 +192,6 @@ public class MainUI_Dictionary extends javax.swing.JFrame {
         if (s == null) meanText.setText("<html><center><i>Not Found!!!</i>");        
         else meanText.setText("<html><center><i>/ " +s.getType()+" /:</i><br>"
                 +s.getWord_explain()+"</center></html>");
-        if(goiY.size() > 0){
-            //hint.setText(goiY.get(0).getWord_target());
-        }
         hint.setText(tuGoiY);
     }//GEN-LAST:event_WordTextFieldKeyReleased
 
