@@ -16,6 +16,11 @@ public class Word {
         word_target = "";
         word_explain = "";
     }
+    public Word(String word_target, String word_explain){
+        this.word_explain = word_explain;
+        this.word_target = word_target;
+        this.type = "";
+    }
     public Word(String word_target, String word_explain, String type){
         this.word_explain = word_explain;
         this.word_target = word_target;

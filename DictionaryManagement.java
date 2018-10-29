@@ -13,7 +13,6 @@ public class DictionaryManagement{
     private String dirFileDic; //đường dẫn tới file dữ liệu từ điển
     //constructor khởi tạo đường dẫn tới file dữ liệu của từ điển tương ứng
     public DictionaryManagement(String dir) {
-        super();
         switch (dir) {
             case "ev":
                 this.dirFileDic="file/EV.txt";
@@ -28,7 +27,7 @@ public class DictionaryManagement{
     //hàm tìm từ word
     public Word lookUp(String word){
         Word tmp = null;
-        if (tuDien.tuVung.size() == 0) return null;
+        if (tuDien.tuVung.isEmpty()) return null;
         else {
             for(int i = 0;i < tuDien.getSize(); i++){
                 if(tuDien.getWord(i).getWord_target().equals(word))
@@ -38,7 +37,8 @@ public class DictionaryManagement{
         }
     }
     public String deleteWord(String word){
-        if(this.lookUp(word)!=null) {tuDien.tuVung.remove(this.lookUp(word));
+        Word tmp = this.lookUp(word);
+        if(tmp != null) {tuDien.tuVung.remove(tmp);
             return "Đã xóa!";
         }
         else return "Không thấy!";
@@ -58,18 +58,21 @@ public class DictionaryManagement{
     }
     public ArrayList<Word> seacher(String tuKhoa){
         ArrayList<Word> ketQua = new ArrayList<>();
-
         for (int i = 0; i <tuDien.getSize();i ++){
             if(tuDien.getWord(i).getWord_target().startsWith(tuKhoa)){
                 ketQua.add(tuDien.getWord(i));
             }
+        }
+        if(ketQua.isEmpty()){
+            ketQua = this.seacher(tuKhoa.substring(0,tuKhoa.length()-1));
         }
         return ketQua;
     }
     public void insertFromFile() {
         try{
             File fileDir = new File(dirFileDic); //đọc file có đường dẫn là dirFileDic
-            try (BufferedReader sc = new BufferedReader(new InputStreamReader(new FileInputStream(fileDir), "UTF-8"))) {
+            try (BufferedReader sc = new BufferedReader(new InputStreamReader(
+                    new FileInputStream(fileDir), "UTF-8"))) {
                 String line = null;
                 while ((line = sc.readLine()) != null){ //đọc vào từng dòng đến cuối file
                     String result[] = line.split(":");//tách các chuỗi cách nhau bởi dấu : trong đó chuỗi đầu là từ, chuối thứ hai là nghĩa, chuỗi thứ 3 là từ loại
