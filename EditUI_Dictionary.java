@@ -254,7 +254,8 @@ public class EditUI_Dictionary extends javax.swing.JFrame {
         if(DeleteField.getText().trim().equals(""))JOptionPane.showMessageDialog(null, "Nhập từ cần xóa! "); // nếu chưa nhập từ cần xóa thì hiện ra nhập từ cần xóa
         else{
             //xóa từ đã nhập ở từ điển tương ứng
-            JOptionPane.showMessageDialog(null, "Xóa từ "+DeleteField.getText()+" ở từ điển "+TypeOfDic.getSelectedItem().toString());
+            JOptionPane.showMessageDialog(null, "Xóa từ "+DeleteField.getText()
+                    +" ở từ điển "+TypeOfDic.getSelectedItem().toString());
             Dic.deleteWord(DeleteField.getText()); //xóa từ nhập ở khung xóa
             Dic.dictionaryExportToFile(); //xóa xong tiến hành ghi lại file.
         }
@@ -262,7 +263,8 @@ public class EditUI_Dictionary extends javax.swing.JFrame {
 
     private void updateBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_updateBtnActionPerformed
         //Khi bấm vào nút thêm hoặc sửa thì ta thêm hoặc sửa vào danh sách và ghi lại vào file
-        JOptionPane.showMessageDialog(null,Dic.addWord(wordField.getText(), meanField.getText(), typeWord.getSelectedItem().toString()));
+        JOptionPane.showMessageDialog(null,Dic.addWord(wordField.getText(), 
+                meanField.getText(), typeWord.getSelectedItem().toString()));
         Dic.dictionaryExportToFile();
     }//GEN-LAST:event_updateBtnActionPerformed
 

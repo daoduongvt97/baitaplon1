@@ -5,10 +5,10 @@ import java.util.ArrayList;
 
 public class MainUI_Dictionary extends javax.swing.JFrame {
 
-    //tạo hai file từ điển tương ứng anh việt và anh anh
+    //tạo hai sách từ điển anh việt và việt anh kiểu static để lưu đến cuối chương trình
     public static DictionaryManagement EVDic = new DictionaryManagement("ev");
     public static DictionaryManagement VEDic = new DictionaryManagement("ve");
-    public static DictionaryManagement Dic;
+    public static DictionaryManagement Dic; //biến Dic để trỏ vào kiểu từ điển tương ứng
     public static Word s;
     private static final String VOICENAME="kevin16"; //tên của giọng nói
     public MainUI_Dictionary() {
@@ -160,8 +160,8 @@ public class MainUI_Dictionary extends javax.swing.JFrame {
     // nếu bấm vào nút đọc thì sẽ đọc lên
     private void readMeanActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_readMeanActionPerformed
         Voice voice;
-        VoiceManager vm=VoiceManager.getInstance();
-        voice=vm.getVoice(VOICENAME);
+        VoiceManager vm = VoiceManager.getInstance();
+        voice = vm.getVoice(VOICENAME);
         voice.allocate();
         try{
             voice.speak(s.getWord_target());
@@ -171,27 +171,29 @@ public class MainUI_Dictionary extends javax.swing.JFrame {
 
     private void changeTypeBtnActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_changeTypeBtnActionPerformed
         //Khi bấm nút chuyển đổi loại từ điển thì trỏ đến danh sách tương ứng
-        String tmp=wordType.getText();
+        String tmp = wordType.getText();
         wordType.setText(meanType.getText());
         meanType.setText(tmp);
-        if(Dic.equals(EVDic)) Dic=VEDic;
-        else Dic=EVDic;
+        if(Dic.equals(EVDic)) Dic = VEDic;
+        else Dic = EVDic;
     }//GEN-LAST:event_changeTypeBtnActionPerformed
 
     private void WordTextFieldKeyReleased(java.awt.event.KeyEvent evt) {//GEN-FIRST:event_WordTextFieldKeyReleased
         //Khi gõ một kí tự vào thì đồng thời tiến hành tìm nghĩa luôn;
-        String timKiem = WordTextField.getText().trim();
+        String timKiem = WordTextField.getText().trim().toLowerCase();//khi tìm kiếm tự động chuyển về chữ in thường
         s = Dic.lookUp(timKiem);
         ArrayList<Word> goiY = new ArrayList<>();
         goiY = Dic.seacher(timKiem);
         String tuGoiY = null;
-        if(goiY.get(0).equals(s)) {
-            if(goiY.size()>1) tuGoiY = goiY.get(1).getWord_target();
-        }
-        else tuGoiY = goiY.get(0).getWord_target();
-        if (s == null) meanText.setText("<html><center><i>Not Found!!!</i>");        
-        else meanText.setText("<html><center><i>/ " +s.getType()+" /:</i><br>"
+        if (s == null) {
+            meanText.setText("<html><center><i>Not Found!!!</i>");
+            tuGoiY = goiY.get(0).getWord_target();
+        }        
+        else {
+            meanText.setText("<html><center><i>/ " +s.getType()+" /:</i><br>"
                 +s.getWord_explain()+"</center></html>");
+            if(goiY.size()>1) tuGoiY = goiY.get(1).getWord_target();
+        } 
         hint.setText(tuGoiY);
     }//GEN-LAST:event_WordTextFieldKeyReleased
 
